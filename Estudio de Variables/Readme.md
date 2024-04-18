@@ -1,0 +1,1 @@
+Este documento contiene un estudio de cada una de las variables de nuestro conjunto de datos. A qué pregunta corresponde cada identificador así como los posibles valores que puede tomar la respuesta a dicha pregunta
